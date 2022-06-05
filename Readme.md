@@ -1,11 +1,14 @@
 # Landing Page - InDecor
 
-Projeto referente as aulas de HTML e CSS.
+LP para Evento de Designer de Interiores
 
-## Seções
+## Seções trabalhadas
 
-- Event Form
-- Benefits Section
-- Event Location
+- Event Form (Formulário)
+- Benefits Section 
+- Event Location (Icone de localização - Utlizado Bootstrap Icons)
 - Event details container
+- Call to action (Chamada para ação)
+- Mobile (Responsividade)
 
+Atividade referente as aulas de HTML5 e CSS3.
